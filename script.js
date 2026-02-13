@@ -3,17 +3,13 @@ const messages = [
     "Saying no won't help you now!😏",
     "Pookie please...",
     "Don't do this to me :(",
-    "I will buy you sweet treats! 🍫",
+    "Still saying no? adorable 🥰",
     "I'll give you my hoodie!",
-    "I'll even let you win in games!",
-    "If you say no, I'm gonna be cooked...",
-    "I'll just stare at the ceiling...",
-    "I will be very very sad...",
+    "Quite persistent aren't you my love?🥲",
     "I'm literally crying rn...",
     "My heart is breaking... 💔",
     "Pretty please with a cherry on top? 🍒",
-    "Ok fine, I will stop asking...",
-    "Just kidding, SAY YES POOKIE! ❤️"
+    "SAY YES POOKIE! ❤️"
 ];
 let messageIndex = 0;
 
